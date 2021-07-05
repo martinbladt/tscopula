@@ -47,5 +47,9 @@ Collate:
     'fitting_vtscopula.R'
     'helper_vtarma.R'
     'data.R'
+    'automatic_fit.R'
+    'more_kpacf.R'
+    'more_margins.R'
+    'statistical_tools.R'
 Suggests: knitr, rmarkdown
 VignetteBuilder: knitr
